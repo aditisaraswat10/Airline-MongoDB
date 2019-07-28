@@ -38,7 +38,7 @@ mongoimport -d AirlineDB -c PLANE_FLIGHT flights.json
 ```
 All the json files are stored in the deliverable folder.
 
-```
+
 
 All the queries found in the Queries.js folder are in the javescript (.js) format where a group of functions are performed to solve a few tasks such as:
 To set employee id as unique index:
