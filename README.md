@@ -11,7 +11,7 @@ An E-R diagram and a Database Dictionary is also attached in the document for cl
 All the implementation part has been done using MongoDB Shell, Terminal and Oxygen XML Editor.
 
 
-### Populating the Database
+## Populating the Database
 
 For populating the database, json files Graphical User Interface for MongoDB, Compass has been used.
 
